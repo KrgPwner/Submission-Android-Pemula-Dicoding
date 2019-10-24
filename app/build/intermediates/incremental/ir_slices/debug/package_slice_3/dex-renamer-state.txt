@@ -1,0 +1,4 @@
+#Sun Aug 25 19:22:03 WIB 2019
+base.0=/home/krgpwner/AndroidStudioProjects/SubmissionBelajarMembuatAplikasiAndroidPemulaMAldiAriqi/app/build/intermediates/transforms/dexMerger/debug/3
+path.0=classes.dex
+renamed.0=classes.dex

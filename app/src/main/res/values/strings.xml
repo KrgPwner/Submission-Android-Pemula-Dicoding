@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Submission Belajar Membuat Aplikasi Android Pemula M Aldi Ariqi</string>
+    <string name="nama_suv">Nama_Mobil</string>
+    <string name="merek_suv">Merek_Mobil</string>
+    <string name="about">About</string>
+    <string name="nama_about">Nama</string>
+    <string name="email_about">Email</string>
+    <string name="nama_detail">Nama SUV</string>
+    <string name="peringkat_detail">Peringkat</string>
+    <string name="informasi_detail">Informasi</string>
+
+</resources>
